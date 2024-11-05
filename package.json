@@ -58,5 +58,10 @@
   "resolutions": {
     "jackspeak": "2.1.1"
   },
-  "homepage": "https://github.com/chromaui/intro-storybook-react-template#readme"
+  "homepage": "https://github.com/chromaui/intro-storybook-react-template#readme",
+  "msw": {
+    "workerDirectory": [
+      "public"
+    ]
+  }
 }
