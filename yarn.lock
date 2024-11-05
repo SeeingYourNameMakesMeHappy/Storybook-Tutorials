@@ -1788,6 +1788,11 @@ check-error@^2.1.1:
   resolved "https://registry.yarnpkg.com/check-error/-/check-error-2.1.1.tgz#87eb876ae71ee388fa0471fe423f494be1d96ccc"
   integrity sha512-OAlb+T7V4Op9OwdkjmguYRqncdlx5JiofwOAUkmTF+jNdHwzTaTs4sRAGpzLF3oOz5xAyDGrPgeIDFQmDOTiJw==
 
+chromatic@^11.16.5:
+  version "11.16.5"
+  resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-11.16.5.tgz#edbc6e407f7d0158e8395896deab194fb0a5ff94"
+  integrity sha512-wUEKXyu3GYmUg6Jq13uyRE9iC8ph5gbfDHdyHH0vQathkGQrcjHHdoxI/GXKIjU6d+xupLon8sxRV9NuZKTWbA==
+
 cli-width@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/cli-width/-/cli-width-4.1.0.tgz#42daac41d3c254ef38ad8ac037672130173691c5"
